@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\metin\\source\\repos\\MvcStok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|C:\\Users\\metin\\source\\repos\\MvcStok\\mvcstok\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|C:\\Users\\metin\\source\\repos\\MvcStok\\mvcstok\\views\\musteri\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\views\\musteri\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|c:\\users\\metin\\source\\repos\\mvcstok\\mvcstok\\views\\\u00FCr\u00FCn\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\views\\\u00FCr\u00FCn\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|C:\\Users\\metin\\source\\repos\\MvcStok\\mvcstok\\views\\satis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\views\\satis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|C:\\Users\\metin\\source\\repos\\MvcStok\\mvcstok\\views\\musteri\\musterigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\views\\musteri\\musterigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|C:\\Users\\metin\\source\\repos\\MvcStok\\mvcstok\\controllers\\mustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\controllers\\mustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|C:\\Users\\metin\\source\\repos\\MvcStok\\mvcstok\\controllers\\satiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\controllers\\satiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|C:\\Users\\metin\\source\\repos\\MvcStok\\mvcstok\\views\\kategori\\yenikategori.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\views\\kategori\\yenikategori.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|C:\\Users\\metin\\source\\repos\\MvcStok\\mvcstok\\controllers\\\u00FCr\u00FCncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\controllers\\\u00FCr\u00FCncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|C:\\Users\\metin\\source\\repos\\MvcStok\\mvcstok\\views\\\u00FCr\u00FCn\\urunekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\views\\\u00FCr\u00FCn\\urunekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|C:\\Users\\metin\\source\\repos\\MvcStok\\mvcstok\\models\\entity\\tblkategoriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\models\\entity\\tblkategoriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|C:\\Users\\metin\\source\\repos\\MvcStok\\mvcstok\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|C:\\Users\\metin\\source\\repos\\MvcStok\\mvcstok\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|C:\\Users\\metin\\source\\repos\\MvcStok\\mvcstok\\views\\\u00FCr\u00FCn\\urungetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\views\\\u00FCr\u00FCn\\urungetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|C:\\Users\\metin\\source\\repos\\MvcStok\\mvcstok\\views\\kategori\\kategorigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\views\\kategori\\kategorigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|C:\\Users\\metin\\source\\repos\\MvcStok\\mvcstok\\models\\entity\\tblmusteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\models\\entity\\tblmusteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|C:\\Users\\metin\\source\\repos\\MvcStok\\mvcstok\\models\\entity\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\models\\entity\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|C:\\Users\\metin\\source\\repos\\MvcStok\\mvcstok\\models\\entity\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{694AEF60-E355-46FA-9BE5-119813AC98BB}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\models\\entity\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MusteriController.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Controllers\\MusteriController.cs",
+              "RelativeDocumentMoniker": "MvcStok\\Controllers\\MusteriController.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Controllers\\MusteriController.cs",
+              "RelativeToolTip": "MvcStok\\Controllers\\MusteriController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:48:32.843Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Views\\\u00DCr\u00FCn\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcStok\\Views\\\u00DCr\u00FCn\\Index.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Views\\\u00DCr\u00FCn\\Index.cshtml",
+              "RelativeToolTip": "MvcStok\\Views\\\u00DCr\u00FCn\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T10:17:48.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KategoriController.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Controllers\\KategoriController.cs",
+              "RelativeDocumentMoniker": "MvcStok\\Controllers\\KategoriController.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Controllers\\KategoriController.cs",
+              "RelativeToolTip": "MvcStok\\Controllers\\KategoriController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:57:54.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UrunEkle.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Views\\\u00DCr\u00FCn\\UrunEkle.cshtml",
+              "RelativeDocumentMoniker": "MvcStok\\Views\\\u00DCr\u00FCn\\UrunEkle.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Views\\\u00DCr\u00FCn\\UrunEkle.cshtml",
+              "RelativeToolTip": "MvcStok\\Views\\\u00DCr\u00FCn\\UrunEkle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T11:15:33.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Views\\Musteri\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcStok\\Views\\Musteri\\Index.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Views\\Musteri\\Index.cshtml",
+              "RelativeToolTip": "MvcStok\\Views\\Musteri\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T20:47:15.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "\u00DCr\u00FCnController.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Controllers\\\u00DCr\u00FCnController.cs",
+              "RelativeDocumentMoniker": "MvcStok\\Controllers\\\u00DCr\u00FCnController.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Controllers\\\u00DCr\u00FCnController.cs",
+              "RelativeToolTip": "MvcStok\\Controllers\\\u00DCr\u00FCnController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAUwEUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:36:25.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "YeniKategori.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Views\\Kategori\\YeniKategori.cshtml",
+              "RelativeDocumentMoniker": "MvcStok\\Views\\Kategori\\YeniKategori.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Views\\Kategori\\YeniKategori.cshtml",
+              "RelativeToolTip": "MvcStok\\Views\\Kategori\\YeniKategori.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T19:15:38.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_MainLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeDocumentMoniker": "MvcStok\\Views\\Shared\\_MainLayout.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeToolTip": "MvcStok\\Views\\Shared\\_MainLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T22:08:25.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Views\\Satis\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcStok\\Views\\Satis\\Index.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Views\\Satis\\Index.cshtml",
+              "RelativeToolTip": "MvcStok\\Views\\Satis\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T22:08:15.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusteriGetir.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Views\\Musteri\\MusteriGetir.cshtml",
+              "RelativeDocumentMoniker": "MvcStok\\Views\\Musteri\\MusteriGetir.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Views\\Musteri\\MusteriGetir.cshtml",
+              "RelativeToolTip": "MvcStok\\Views\\Musteri\\MusteriGetir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T18:25:33.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SatisController.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Controllers\\SatisController.cs",
+              "RelativeDocumentMoniker": "MvcStok\\Controllers\\SatisController.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Controllers\\SatisController.cs",
+              "RelativeToolTip": "MvcStok\\Controllers\\SatisController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T22:07:59.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UrunGetir.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Views\\\u00DCr\u00FCn\\UrunGetir.cshtml",
+              "RelativeDocumentMoniker": "MvcStok\\Views\\\u00DCr\u00FCn\\UrunGetir.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Views\\\u00DCr\u00FCn\\UrunGetir.cshtml",
+              "RelativeToolTip": "MvcStok\\Views\\\u00DCr\u00FCn\\UrunGetir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T11:16:03.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TBLKATEGORILER.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Models\\Entity\\TBLKATEGORILER.cs",
+              "RelativeDocumentMoniker": "MvcStok\\Models\\Entity\\TBLKATEGORILER.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Models\\Entity\\TBLKATEGORILER.cs",
+              "RelativeToolTip": "MvcStok\\Models\\Entity\\TBLKATEGORILER.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:10:22.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcStok\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcStok\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:15:24.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KategoriGetir.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Views\\Kategori\\KategoriGetir.cshtml",
+              "RelativeDocumentMoniker": "MvcStok\\Views\\Kategori\\KategoriGetir.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Views\\Kategori\\KategoriGetir.cshtml",
+              "RelativeToolTip": "MvcStok\\Views\\Kategori\\KategoriGetir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T18:27:03.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TBLMUSTERILER.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Models\\Entity\\TBLMUSTERILER.cs",
+              "RelativeDocumentMoniker": "MvcStok\\Models\\Entity\\TBLMUSTERILER.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Models\\Entity\\TBLMUSTERILER.cs",
+              "RelativeToolTip": "MvcStok\\Models\\Entity\\TBLMUSTERILER.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:30:25.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Models\\Entity\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "MvcStok\\Models\\Entity\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Models\\Entity\\Model1.Context.cs",
+              "RelativeToolTip": "MvcStok\\Models\\Entity\\Model1.Context.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:09:59.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Models\\Entity\\Model1.edmx",
+              "RelativeDocumentMoniker": "MvcStok\\Models\\Entity\\Model1.edmx",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\MvcStok\\MvcStok\\Models\\Entity\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "MvcStok\\Models\\Entity\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-03-21T19:09:45.299Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
